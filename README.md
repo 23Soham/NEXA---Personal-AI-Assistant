@@ -62,12 +62,15 @@ The result: an AI Agent that can **read, reason, and act** to save time and impr
 
 ---
 
-## 🛠️ Tech Stack
-Area	Tools & Technologies
-Workflow Engine	n8n
-LLM	OpenAI GPT Models
-Knowledge Retrieval	RAG + ChromaDB / FAISS
-Communication	Telegram Bot, ElevenLabs TTS
-Productivity APIs	Gmail API, Google Calendar API
-Business APIs	CRM, Slack, Notion (planned)
-Data Exchange	JSON, REST APIs
+## 🛠️ Tech Stack  
+
+| **Area**            | **Tools & Technologies**        |
+|----------------------|---------------------------------|
+| Workflow Engine      | n8n                             |
+| LLM                  | OpenAI GPT Models               |
+| Knowledge Retrieval  | RAG + ChromaDB / FAISS          |
+| Communication        | Telegram Bot, ElevenLabs TTS    |
+| Productivity APIs    | Gmail API, Google Calendar API  |
+| Business APIs        | CRM, Slack, Notion (planned)    |
+| Data Exchange        | JSON, REST APIs                 |
+
