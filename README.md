@@ -58,7 +58,7 @@ The result: an AI Agent that can **read, reason, and act** to save time and impr
 
 ## 🏗️ System Architecture  
 
-<img width="1536" height="1024" alt="ChatGPT Image Aug 17, 2025 at 08_28_20 AM" src="https://github.com/user-attachments/assets/7dc2a7b0-abc7-40bc-a667-770de05bb41f" />
+<img width="827" height="523" alt="ChatGPT Image Aug 17, 2025 at 08_28_20 AM" src="https://github.com/user-attachments/assets/7dc2a7b0-abc7-40bc-a667-770de05bb41f" />
 
 ---
 
