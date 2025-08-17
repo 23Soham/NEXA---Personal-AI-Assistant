@@ -152,21 +152,24 @@ NexaAssistant:
 
 Here are a few real interactions with **NexaAssistant** in action:  
 
-<div align="center">
+<div align="center" style="display: flex; gap: 30px; justify-content: center;">
+
   <figure>
     <img width="110" height="227" alt="image" src="https://github.com/user-attachments/assets/c41b7895-3d3a-4c83-b411-64241013d323" />
-    <figcaption><b>Knowledge Retrieval (RAG)</b></figcaption>
+    <figcaption align="center"><b>Knowledge Retrieval (RAG)</b></figcaption>
   </figure>
+
   <figure>
     <img width="110" height="228" alt="image" src="https://github.com/user-attachments/assets/7b40b4e2-f3b3-41fd-a69e-084207c4e828" />
-    <figcaption><b>Calendar Scheduling</b></figcaption>
+    <figcaption align="center"><b>Calendar Scheduling</b></figcaption>
   </figure>
+
   <figure>
     <img width="110" height="228" alt="image" src="https://github.com/user-attachments/assets/44c4e8e7-73ae-4db3-8586-4cb5e58d1cf6" />
-    <figcaption><b>Email Intelligence</b></figcaption>
+    <figcaption align="center"><b>Email Intelligence</b></figcaption>
   </figure>
-</div>
 
+</div>
 
 
 ---
