@@ -58,5 +58,16 @@ The result: an AI Agent that can **read, reason, and act** to save time and impr
 
 ## 🏗️ System Architecture  
 
-<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/6d08301c-f49e-4db4-a844-3fff7f841162" />
+<img width="1536" height="1024" alt="ChatGPT Image Aug 17, 2025 at 08_28_20 AM" src="https://github.com/user-attachments/assets/7dc2a7b0-abc7-40bc-a667-770de05bb41f" />
 
+---
+
+## 🛠️ Tech Stack
+Area	Tools & Technologies
+Workflow Engine	n8n
+LLM	OpenAI GPT Models
+Knowledge Retrieval	RAG + ChromaDB / FAISS
+Communication	Telegram Bot, ElevenLabs TTS
+Productivity APIs	Gmail API, Google Calendar API
+Business APIs	CRM, Slack, Notion (planned)
+Data Exchange	JSON, REST APIs
