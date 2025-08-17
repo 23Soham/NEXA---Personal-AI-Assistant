@@ -148,6 +148,17 @@ NexaAssistant:
 
 ---
 
+## 🖼️ Sample Outputs
+Here are a few real interactions with NexaAssistant in action:
+1. Knowledge Retrieval (RAG)
+<img src="a2c67024-4c12-428f-87e5-51e503c2dfa2.jpeg" alt="Knowledge Retrieval Example" width="300"/>
+2. Calendar Scheduling
+<img src="f12c35e0-a437-40de-8e22-9efdfd784eea.jpeg" alt="Calendar Agent Example" width="300"/>
+3. Email Intelligence
+<img src="dcb07272-2eae-41be-90e5-7c7ebe0fb366.jpeg" alt="Email Agent Example" width="300"/>
+
+---
+
 ## 🗺️ Roadmap  
 
 - [ ] Slack & Teams API integration  
