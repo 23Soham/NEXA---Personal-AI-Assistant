@@ -58,31 +58,5 @@ The result: an AI Agent that can **read, reason, and act** to save time and impr
 
 ## 🏗️ System Architecture  
 
-```mermaid
-flowchart LR
-    subgraph User
-      TLG[Telegram Chat] --- VOICE[Voice (TTS/STT)]
-    end
+<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/6d08301c-f49e-4db4-a844-3fff7f841162" />
 
-    TLG --> Gateway[Webhook/API Gateway]
-    VOICE --> Gateway
-
-    Gateway --> Orchestrator[n8n Workflow Orchestrator]
-    Orchestrator -->|RAG prompt| LLM[OpenAI LLM]
-    Orchestrator -->|embed/retrieve| VDB[(Vector DB)]
-    VDB --> Orchestrator
-    LLM --> Orchestrator
-
-    Orchestrator -->|send/read| Gmail[Gmail API]
-    Orchestrator -->|create/get| GCal[Google Calendar API]
-    Orchestrator -->|notify| TLG
-    Orchestrator -->|update/fetch| CRM[CRM API]
-    Orchestrator -->|voice reply| VOICE
-
-    subgraph Infra
-      Logs[Run Logs]
-      Secrets[API Keys]
-    end
-
-    Orchestrator --- Logs
-    Orchestrator --- Secrets
