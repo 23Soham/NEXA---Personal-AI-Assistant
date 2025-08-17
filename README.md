@@ -148,16 +148,25 @@ NexaAssistant:
 
 ---
 
-## 🖼️ Sample Outputs
-Here are a few real interactions with NexaAssistant in action:
-1. Knowledge Retrieval (RAG)
-<img width="110" height="227" alt="image" src="https://github.com/user-attachments/assets/dfe26272-9b89-4ebd-91a1-7e0dce6426a8" />
+## 🖼️ Sample Outputs  
 
-2. Calendar Scheduling
-<img width="110" height="228" alt="image" src="https://github.com/user-attachments/assets/178fd31e-712d-4cda-ae71-7ea70ea255a7" />
+Here are a few real interactions with **NexaAssistant** in action:  
 
-3. Email Intelligence
-<img width="110" height="228" alt="image" src="https://github.com/user-attachments/assets/f37f5ca3-c22b-42f4-844a-699c97933d88" />
+<div align="center">
+  <figure>
+    <img src="a2c67024-4c12-428f-87e5-51e503c2dfa2.jpeg" alt="Knowledge Retrieval" width="250"/>
+    <figcaption><b>Knowledge Retrieval (RAG)</b></figcaption>
+  </figure>
+  <figure>
+    <img src="f12c35e0-a437-40de-8e22-9efdfd784eea.jpeg" alt="Calendar Scheduling" width="250"/>
+    <figcaption><b>Calendar Scheduling</b></figcaption>
+  </figure>
+  <figure>
+    <img src="dcb07272-2eae-41be-90e5-7c7ebe0fb366.jpeg" alt="Email Intelligence" width="250"/>
+    <figcaption><b>Email Intelligence</b></figcaption>
+  </figure>
+</div>
+
 
 
 ---
